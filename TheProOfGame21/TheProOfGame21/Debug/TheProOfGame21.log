@@ -1,0 +1,4 @@
+﻿  TheProOfGame21.cpp
+c:\users\lenovo\desktop\c-cpp project\theproofgame21\theproofgame21\theproofgame21.cpp(161): warning C4627: “#include <iostream>”: 在查找预编译头使用时跳过
+  c:\users\lenovo\desktop\c-cpp project\theproofgame21\theproofgame21\theproofgame21.cpp(161): note: 将指令添加到“stdafx.h”或重新生成预编译头
+c:\users\lenovo\desktop\c-cpp project\theproofgame21\theproofgame21\theproofgame21.cpp(319): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?

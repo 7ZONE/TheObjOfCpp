@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  TheProgramOfDiscrimimateWord.cpp
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(178): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(196): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(221): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\theprogramofdiscrimimateword\theprogramofdiscrimimateword\theprogramofdiscrimimateword.cpp(300): warning C4101: “cstr”: 未引用的局部变量
+LINK : warning LNK4067: 不明确的入口点；选定“mainCRTStartup”
+  TheProgramOfDiscrimimateWord.vcxproj -> C:\Users\lenovo\Desktop\C-CPP Project\TheProgramOfDiscrimimateWord\Debug\TheProgramOfDiscrimimateWord.exe

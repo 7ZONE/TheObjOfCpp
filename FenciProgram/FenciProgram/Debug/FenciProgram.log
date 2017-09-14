@@ -1,0 +1,8 @@
+﻿  FenciProgram.cpp
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(166): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(184): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(209): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\lenovo\desktop\c-cpp project\fenciprogram\fenciprogram\fenciprogram.cpp(288): warning C4101: “cstr”: 未引用的局部变量
+  FenciProgram.vcxproj -> C:\Users\lenovo\Desktop\C-CPP Project\FenciProgram\Debug\FenciProgram.exe
